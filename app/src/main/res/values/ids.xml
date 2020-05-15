@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_menu" type="id" />
+    <item name="daily_menu" type="id" />
+    <item name="gallery_menu" type="id" />
+    <item name="music_menu" type="id" />
+    <item name="profile_menu" type="id" />
+</resources>
